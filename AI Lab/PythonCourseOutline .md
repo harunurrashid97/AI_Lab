@@ -22,7 +22,7 @@
         </ul>
         
 <ul> 
-<font size="5" color="green"><b></b>Conditionals and Loops</font>
+    <font size="5" color="green"><b>Conditionals and Loops</b></font>
     <li> <font size="3">If-Else Statements
     <li><font size="3">For Loops
     <li> <font size="3">While Loops
@@ -31,13 +31,13 @@
         </ul>
         
 <ul> 
-<font size="5" color="#2c3e50"><b></b>User Input</font>
+<font size="5" color="#2c3e50"><b>User Input</b></font>
     <li> <font size="3">User Input and Casting 
     <li><font size="3">Exceptions
         </ul>
         
 <ul> 
-<font size="5" color="#800000"><b></b>Functions and Files</font>
+<font size="5" color="#800000"><b>Functions and Files</b></font>
     <li> <font size="3">Understanding Functions 
     <li><font size="3">Opening and Reading Files 
     <li><font size="3">Writing to Files
@@ -45,7 +45,7 @@
          </ul>
          
 <ul> 
-<font size="5" color="#008080"><b></b>Classes and Object</font>
+<font size="5" color="#008080"><b>Classes and Object</b></font>
     <li> <font size="3">Creating Classes
     <li><font size="3">Objects
         </ul>
